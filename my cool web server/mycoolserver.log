@@ -1,0 +1,18 @@
+ method: GET 
+ url: /
+ timestamp: 2023-05-18T05:46:01.540Z 
+ response code: 200
+ msj: OK
+
+ method: GET 
+ url: /
+ timestamp: 2023-05-18T05:46:01.603Z 
+ response code: 200
+ msj: OK
+
+ method: GET 
+ url: /favicon.ico
+ timestamp: 2023-05-18T05:46:01.698Z 
+ response code: 200
+ msj: OK
+
